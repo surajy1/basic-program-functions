@@ -10,7 +10,6 @@ int power(int base, int exponent){
     }
     
     printf("Answer: %d", base1);
-    
 }
 
 int main() {
